@@ -1,0 +1,11 @@
+C:\Users\GEKA\source\repos\Buckshot\Buckshot\obj\Debug\Buckshot.csproj.AssemblyReference.cache
+C:\Users\GEKA\source\repos\Buckshot\Buckshot\obj\Debug\Buckshot.Properties.Resources.resources
+C:\Users\GEKA\source\repos\Buckshot\Buckshot\obj\Debug\Buckshot.csproj.GenerateResource.cache
+C:\Users\GEKA\source\repos\Buckshot\Buckshot\obj\Debug\Buckshot.csproj.CoreCompileInputs.cache
+C:\Users\GEKA\source\repos\Buckshot\Buckshot\bin\Debug\Buckshot.exe.config
+C:\Users\GEKA\source\repos\Buckshot\Buckshot\bin\Debug\Buckshot.exe
+C:\Users\GEKA\source\repos\Buckshot\Buckshot\bin\Debug\Buckshot.pdb
+C:\Users\GEKA\source\repos\Buckshot\Buckshot\obj\Debug\Buckshot.exe
+C:\Users\GEKA\source\repos\Buckshot\Buckshot\obj\Debug\Buckshot.pdb
+C:\Users\GEKA\source\repos\Buckshot\Buckshot\obj\Debug\Buckshot.Form1.resources
+C:\Users\GEKA\source\repos\Buckshot\Buckshot\obj\Debug\Buckshot.Form2.resources
