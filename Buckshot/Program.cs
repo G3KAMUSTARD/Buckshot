@@ -10,7 +10,7 @@ namespace Buckshot
 {
     internal class DB
     {
-        SqlConnection SqlConnection = new SqlConnection(@"Data Source=DESKTOP-T2C2D56\SQLEXPRESS;Initial Catalog=Shotgun;Integrated Security=True");
+        SqlConnection SqlConnection = new SqlConnection(@"Data Source=510-10;Initial Catalog=Shotgun;Integrated Security=True");
 
         public void OpenConection()
         {
@@ -30,30 +30,7 @@ namespace Buckshot
         {
             return SqlConnection;
         }
-
-        public string StrCon()
-        {
-            return @"Data Source=DESKTOP-T2C2D56\SQLEXPRESS;Initial Catalog=Shotgun;Integrated Security=True";
-        }
-
-
-        public SqlDataAdapter queryEx(string query)
-        {
-            try
-            {
-                SqlConnection myCon = new SqlConnection(StrCon());
-                myCon.Open();
-                SqlDataAdapter SDA = new SqlDataAdapter(query, myCon);
-                SDA.SelectCommand.ExecuteNonQuery();
-                MessageBox.Show("Успешно");
-                return SDA;
-            }
-            catch
-            {
-               
-                return null;
-            }
-        }
+        
         static class Program
         {
 
@@ -65,7 +42,7 @@ namespace Buckshot
             {
                 Application.EnableVisualStyles();
                 Application.SetCompatibleTextRenderingDefault(false);
-                Application.Run(new Form2());
+                Application.Run(new Auth());
             }
         }
     }

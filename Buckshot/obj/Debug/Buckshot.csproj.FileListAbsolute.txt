@@ -9,3 +9,14 @@ C:\Users\GEKA\source\repos\Buckshot\Buckshot\obj\Debug\Buckshot.exe
 C:\Users\GEKA\source\repos\Buckshot\Buckshot\obj\Debug\Buckshot.pdb
 C:\Users\GEKA\source\repos\Buckshot\Buckshot\obj\Debug\Buckshot.Form1.resources
 C:\Users\GEKA\source\repos\Buckshot\Buckshot\obj\Debug\Buckshot.Form2.resources
+D:\практ 3  пр (стрельбище тир)\Buckshot\obj\Debug\Buckshot.csproj.AssemblyReference.cache
+D:\практ 3  пр (стрельбище тир)\Buckshot\obj\Debug\Buckshot.Form1.resources
+D:\практ 3  пр (стрельбище тир)\Buckshot\obj\Debug\Buckshot.Form2.resources
+D:\практ 3  пр (стрельбище тир)\Buckshot\obj\Debug\Buckshot.Properties.Resources.resources
+D:\практ 3  пр (стрельбище тир)\Buckshot\obj\Debug\Buckshot.csproj.GenerateResource.cache
+D:\практ 3  пр (стрельбище тир)\Buckshot\obj\Debug\Buckshot.csproj.CoreCompileInputs.cache
+D:\практ 3  пр (стрельбище тир)\Buckshot\obj\Debug\Buckshot.exe
+D:\практ 3  пр (стрельбище тир)\Buckshot\obj\Debug\Buckshot.pdb
+D:\практ 3  пр (стрельбище тир)\Buckshot\bin\Debug\Buckshot.exe.config
+D:\практ 3  пр (стрельбище тир)\Buckshot\bin\Debug\Buckshot.exe
+D:\практ 3  пр (стрельбище тир)\Buckshot\bin\Debug\Buckshot.pdb
